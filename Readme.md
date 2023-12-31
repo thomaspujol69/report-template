@@ -4,6 +4,9 @@
 
 Needed package:
 - `pandoc`
+- `texlive`
+- `texlive-fonts-extra`
+- `texlive-fonts-recommended`
 
 ## Build
 
