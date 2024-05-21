@@ -2,7 +2,7 @@
 
 ## Installation
 
-Needed package:
+Needed packages:
 - `pandoc`
 - `texlive`
 - `texlive-fonts-extra`
